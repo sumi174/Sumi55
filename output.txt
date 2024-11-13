@@ -1,0 +1,5 @@
+Sum of series 1 to 10: 55
+Sum of series 1 to 15: 120
+Sum of series 1 to 20: 210
+Sum of series 1 to 30: 465
+Sum of series 1 to 55: 1540
